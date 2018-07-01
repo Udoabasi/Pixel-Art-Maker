@@ -1,16 +1,28 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+## Contents
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+* [About](#about)
+* [Arthur](#arthur)
+* [Purpose](#purpose)
+* [Contribution](#contribution)
+* [Version](#version)
+* [Released Date](#released date)
 
-## Instructions
+## About
+Pixel Art Maker is the project from Udacity Google Africa Challenge Scholarship.
 
-To get started, open `designs.js` and start building out the app's functionality.
+## Arthur
+Written and developed by Udoabasi Terry Okono
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+## Purpose
+For the award of NanoDegree in Front End Web Developer Track
 
-## Contributing
+## Contribution
+Udacity provided this repository with starter code initial development
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+## Version
+1.0
+
+## Released Date
+1/07/2018
